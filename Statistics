@@ -3,6 +3,15 @@
         <title>TODO supply a title</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+}
+</style>
     </head>
     <body>
         <h1><b>Statistics</b></h1>
@@ -16,6 +25,17 @@
                     <li>Joined the European Union 1 May 2004</li>
             </ol>
         <h2><b>Area</b></h2>
-            
+            <table style="width:100%">
+              <tr>
+                <th>Total</th>
+                <th>64,589</th> 
+                <th>km^2</th>
+              </tr>
+              <tr>
+                <td>Water</td>
+                <td>1.57</td>
+                <td>%</td>
+              </tr>
+            </table>
     </body>
 </html>
