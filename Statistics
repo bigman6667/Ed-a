@@ -5,8 +5,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
-        <h1>Statistics</h1>
-        <h2>Independence</h2>
+        <h1><b>Statistics</b></h1>
+        <h2><b>Independence</b></h2>
             <ol>
                     <li>Declared November 18, 1918 </li>
                     <li>Soviet occupation 5 August 1940</li>
@@ -15,7 +15,7 @@
                     <li>Restored independence 21 August 1991</li>
                     <li>Joined the European Union 1 May 2004</li>
             </ol>
-        <h2>Area</h2>
+        <h2><b>Area</b></h2>
             
     </body>
 </html>
